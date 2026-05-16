@@ -1,0 +1,12 @@
+[server]
+# Raise max upload size to 500 MB (default is 200 MB).
+# Covers large CSV batches and model files.
+maxUploadSize = 500
+
+[theme]
+base = "light"
+primaryColor = "#0891B2"
+backgroundColor = "#F4F6F9"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1E293B"
+font = "sans serif"
